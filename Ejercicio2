@@ -1,0 +1,19 @@
+Algoritmo sin_titulo
+	Escribir "Ingrese los dos numeros a sumar";
+	Leer num1,num2;
+	suma<-num1+num2;
+	resta<-num1-num2;
+	Escribir "suma o resta";
+	Leer operacion;
+
+	Segun operacion Hacer
+		"suma" :
+			Escribir "la suma de ",num1," mas ",num2," es igual a ",suma;
+		"resta" :
+			Escribir "la resta de ",num1," menos ",num2," es igual a ",resta;
+		De Otro Modo:
+			Escribir "error"
+	Fin Segun
+	
+	
+FinAlgoritmo

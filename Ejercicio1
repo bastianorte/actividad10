@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	escribir "escriba un numero"
+	leer x
+	Mientras x<15 Hacer
+		escribir "otra vez"
+		leer x
+	Fin Mientras
+FinAlgoritmo
