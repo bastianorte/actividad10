@@ -1,8 +1,9 @@
 Algoritmo sin_titulo
-	escribir "escriba un numero"
+	
+	Escribir "Escriba un numero entre 0 y 15"
 	leer x
-	Mientras x<15 Hacer
-		escribir "otra vez"
+	Mientras x>15 Hacer
+		Escribir "Ese numero es mayor a 15, escriba otro"
 		leer x
 	Fin Mientras
 FinAlgoritmo
