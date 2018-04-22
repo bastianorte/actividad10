@@ -1,2 +1,2 @@
-# actividad10
+# Actividad10
 ### Bastian Ortega Fuenzalida // Fullstack g12
